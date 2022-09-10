@@ -3,7 +3,7 @@ name: BTGen - Web Development Project boilerplate generator
 on:
   push:
     branches:
-      - main,
+      - main
       - dev
       - next
   pull_request:
