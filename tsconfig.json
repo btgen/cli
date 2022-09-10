@@ -16,7 +16,7 @@
     "module": "commonjs",
     "rootDir": "./src",
     "paths": {
-      "@cli": "./src/lib"
+      "@cli": ["./src/lib"]
     },
     "resolveJsonModule": true,
 
